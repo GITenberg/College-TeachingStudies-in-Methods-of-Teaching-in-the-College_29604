@@ -1,0 +1,30 @@
+_repo: College-TeachingStudies-in-Methods-of-Teaching-in-the-College_29604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Klapper, Paul
+    birthdate: 1885
+    deathdate: 1952
+    gutenberg_agent_id: '34023'
+    url: http://www.gutenberg.org/2009/agents/34023
+description: ''
+gutenberg_issued: '2009-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29604'
+  lccn: '20005826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Universities and colleges -- United States'
+- !lcsh 'Teaching'
+title: 'College Teaching
+
+  Studies in Methods of Teaching in the College'
+url: http://www.gutenberg.org/ebooks/29604
